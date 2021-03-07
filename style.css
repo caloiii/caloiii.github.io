@@ -1,4 +1,20 @@
-h1{
-	position: center;
-	color:blue;
+div.upper{
+	text-align:left;
+	font-family: Verdana;
+	color:white;
+	background-color: #d66b6b;
+	font-size: 30px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	border-radius: 10px;
+}
+h3.qs{
+	text-align: left;
+	color: #d15c5c;
+}
+p.ans{
+	margin-right: 60%;
+}
+body{
+	background-color: #ffcfcf;
 }
