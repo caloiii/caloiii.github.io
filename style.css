@@ -15,6 +15,30 @@ h3.qs{
 p.ans{
 	margin-right: 60%;
 }
+h2{
+	color: #dea4a4;
+}
+p.rightp{
+	margin-top: 1px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+#addinfotitle{
+	font-size: 20px;
+}
+#addinfo{
+	font-size: 18px;
+}
+div.right{
+	background-image: url("clouds.gif");
+	background-repeat: no-repeat;
+	position: fixed;
+	right: 70px;
+	background-size: 350px 757px;
+	text-align: center;
+	float: right;
+	margin: 0px 2% 10px 2%;
+	max-width: 350px;
+}
 body{
 	background-color: #ffcfcf;
 }
