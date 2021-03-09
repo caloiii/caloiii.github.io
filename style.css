@@ -11,14 +11,24 @@ div.upper{
 h3.qs{
 	text-align: left;
 	color: #d15c5c;
-	font-family: Verdana;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	margin-bottom: 0px;
 }
 p.ans{
 	margin-right: 60%;
 	font-family: 'Gloria Hallelujah', cursive;
 }
 h2{
+	font-size: 45px;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 1px;
 	color: #dea4a4;
+	text-shadow:
+   	-1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff; 
 }
 p.rightp{
 	margin-top: 1px;
