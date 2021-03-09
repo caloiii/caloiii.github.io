@@ -11,9 +11,11 @@ div.upper{
 h3.qs{
 	text-align: left;
 	color: #d15c5c;
+	font-family: Verdana;
 }
 p.ans{
 	margin-right: 60%;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 h2{
 	color: #dea4a4;
@@ -28,10 +30,15 @@ p.rightp{
 #addinfo{
 	font-size: 18px;
 }
+ul{
+	list-style-image: url("jamond.gif");
+	list-style-position: outside;
+	font-family: 'Gloria Hallelujah', cursive;
+}
 div.right{
 	background-image: url("clouds.gif");
 	background-repeat: no-repeat;
-	position: fixed;
+	position: relative;
 	right: 70px;
 	background-size: 350px 757px;
 	text-align: center;
