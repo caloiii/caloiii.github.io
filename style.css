@@ -11,9 +11,13 @@ div.upper{
 h3.qs{
 	text-align: left;
 	color: #d15c5c;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	margin-bottom: 0px;
 }
 p.ans{
 	margin-right: 60%;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 body{
 	background-color: #ffcfcf;
